@@ -219,3 +219,6 @@ __marimo__/
 
 # Data files
 .data
+
+# Keys and sensitive variables
+.env
